@@ -111,7 +111,7 @@ $episodelist = $getAnime['episode_id'];
                                         </div>
                                         <!---recommended to use Anikatsu Servers only ---->
                                         <iframe name="iframe-to-load"
-                                            src="https://player.anikatsu.me/index.php?id=<?=$url?>" frameborder="0"
+                                            src="https://player.ryuk.to/index.php?id=<?=$url?>" frameborder="0"
                                             scrolling="no"
                                             allow="accelerometer;autoplay;encrypted-media;gyroscope;picture-in-picture"
                                             allowfullscreen="true" webkitallowfullscreen="true"
