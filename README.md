@@ -45,12 +45,16 @@
 ## Requirements
 --> **Before running check .htaccess file is present in root dir**
 <br>
---> Php environment or Directly Upload the code on php supported hosting (No editing Required Just Upload and Enjoy)
+--> Clone Repository, Upload all files in public_html folder
 <br>
+<br>
+--> Recommended: Clone the <a href="https://github.com/RRR-sudo/anikatsu-api">API REPO</a>.
+
+--> Now Host anikatsu api in VPS Server. (Suggetion : Host API in "replit.com")
+
+--> Run It and Update the `$apiURL` variable in `_config.php` with new URL. 
+
 --> **To Update Website Info (Website name, logo, favicon, socials url) Edit `_config.php` file**
-<br>
---> Recommended: First Clone the <a href="https://github.com/RRR-sudo/anikatsu-api">API REPO</a>. Run It and Update the `$apiURL` variable in `_config.php` with new URL. 
---> Suggetion : Host API in "replit.com"
 
 
 ## Online Deployment
