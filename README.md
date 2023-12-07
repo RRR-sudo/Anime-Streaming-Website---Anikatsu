@@ -49,7 +49,7 @@
 <br>
 --> **To Update Website Info (Website name, logo, favicon, socials url) Edit `_config.php` file**
 <br>
---> Recommended: First Clone the <a href="">API REPO</a>. Run It and Update the `$apiURL` variable in `_config.php` with new URL. 
+--> Recommended: First Clone the <a href="https://github.com/RRR-sudo/anikatsu-api">API REPO</a>. Run It and Update the `$apiURL` variable in `_config.php` with new URL. 
 
 
 ## Online Deployment
@@ -60,7 +60,7 @@ Deploy on any PHP Apache hosting.
 
 First download the repository using
 ```
-git clone https://github.com/shashankktiwariii/anikatsu
+git clone https://github.com/RRR-sudo/anikatsu-Clone
 ```
 
 Now start the production build of the site
